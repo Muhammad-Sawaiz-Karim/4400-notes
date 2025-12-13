@@ -9,3 +9,7 @@
 - Short tutorial to Prolog: [Link](https://users.aber.ac.uk/ais/Prolog/)
 - Unification: [Link](https://lpn.swi-prolog.org/lpnpage.php?pagetype=html&pageid=lpn-htmlse5)
 - SWI-Prolog docs: [Link](https://www.swi-prolog.org/pldoc/man?section=quickstart)
+
+## Lambda Calculus
+- A Tutorial Introduction to the Lambda Calculus [Link](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf)
+- 
