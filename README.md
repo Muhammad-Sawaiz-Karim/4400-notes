@@ -1,4 +1,6 @@
 # 4400 notes (some useful links)  
+Here are some notes I made for 4400 and thought would be useful to share. They are primarily for my own use so they might not be the best but hopefully they help.    
+Feel free to make a pull request if there is anything you would like to add.
 
 ## CUDA  
 - FireShip CUDA video: [Link](https://youtu.be/pPStdjuYzSI)
