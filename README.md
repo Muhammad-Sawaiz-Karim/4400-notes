@@ -11,5 +11,5 @@
 - SWI-Prolog docs: [Link](https://www.swi-prolog.org/pldoc/man?section=quickstart)
 
 ## Lambda Calculus
-- A Tutorial Introduction to the Lambda Calculus [Link](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf)
-- 
+- A Tutorial Introduction to the Lambda Calculus: [Link](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf)
+- University of Wisconsin-Madison Lambda Caclulus Notes: [Link](https://pages.cs.wisc.edu/~horwitz/CS704-NOTES/1.LAMBDA-CALCULUS.html)
