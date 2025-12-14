@@ -15,3 +15,6 @@ Feel free to make a pull request if there is anything you would like to add.
 ## Lambda Calculus
 - A Tutorial Introduction to the Lambda Calculus: [Link](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf)
 - University of Wisconsin-Madison Lambda Caclulus Notes: [Link](https://pages.cs.wisc.edu/~horwitz/CS704-NOTES/1.LAMBDA-CALCULUS.html)
+
+## Racket/Scheme
+- Racket manual: [Link](https://docs.racket-lang.org/reference/index.html)
