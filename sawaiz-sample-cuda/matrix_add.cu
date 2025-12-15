@@ -42,6 +42,10 @@ void multiply(const Matrix A, const Matrix B, Matrix C)
     kernel_call<<<grid, block>>>(d_A, d_B, d_C);
 
     cudaMemcpy(C.elements, d_C.elements, c_size, cudaMemcpyDeviceToHost);
+
+    cudaFree(d_A.elements);
+    cudaFree(d_B.elements);
+    cudaFree(d_C.elements);
 }
 
 __global__ void kernel_call(Matrix d_A, Matrix d_B, Matrix d_C)
